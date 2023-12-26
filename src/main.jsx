@@ -1,3 +1,4 @@
+import app from './App'
 import React, { children } from 'react'
 import ReactDOM from 'react-dom/client'
 
